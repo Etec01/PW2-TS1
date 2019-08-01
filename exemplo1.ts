@@ -1,2 +1,2 @@
-let message:string = "Hello world";
+let message:string = "OI Eu Sou Goku";
 console.log(message);
